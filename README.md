@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-get-community-server-curl-badge.png)](https://mseep.ai/app/mcp-get-community-server-curl)
+
 # MCP Get Community Servers
 
 This repository contains a collection of community-maintained Model Context Protocol (MCP) servers. All servers are automatically listed on the [MCP Get registry](https://mcp-get.com) and can be viewed and installed via CLI:
